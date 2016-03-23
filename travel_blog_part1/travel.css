@@ -1,0 +1,23 @@
+
+
+
+body {
+font-weight: bold;
+font-size: 18px;
+color: blue;
+background-color:black;
+
+}
+
+a {font-style: italic;}
+   
+p  {color: red
+    font-style:italic; 
+    }
+
+h3 {color: red;
+    font-style: italic;
+    font-size: 20px;
+}
+
+
